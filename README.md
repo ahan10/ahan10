@@ -6,4 +6,4 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ahan-bhargava)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ahanbhargava.svg?style=social&label=Follow%20%40ahanbhargava)](https://twitter.com/AhanBhargava)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/AhanBhargava.svg?style=social&label=Follow%20%40AhanBhargava)](https://twitter.com/AhanBhargava)
