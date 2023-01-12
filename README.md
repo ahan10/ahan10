@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahan Bhargava
 
-- 🔭 I’m currently a second Year Computer Engineering Student 
+- 🔭 I’m currently a Second Year Computer Engineering Student 
 - 🌱 I’m currently learning Java
 - 📫 I have past experiences in MATLAB, Python, C and C++
 
