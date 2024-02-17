@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **LongBox**
 
-- 🌱 I’m currently learning **Java**
-
 - 🔭 I’m currently working on **Library Management System**
+
+- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
