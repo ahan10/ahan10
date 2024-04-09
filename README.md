@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahan Bhargava</h1>
 <h3 align="center">A Third Year Software Engineering Student</h3>
 
-- 🔭 I’m currently working on **LongBox**
-
-- 🔭 I’m currently working on **Library Management System**
+- 🔭 I’m currently working on **LongBox** and **LibManager**
 
 - 🌱 I’m currently learning **Java**
 
